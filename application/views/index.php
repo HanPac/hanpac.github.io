@@ -4,8 +4,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=0">
-  <meta name="description" content="Han Nim - Creative Portfolio HTML">
-  <meta name="author" content="Paul, Logan Cee">
+  <meta name="description" content="Han Nim - Home Personal">
+  <meta name="author" content="Han Nim, Pacifique">
   <!--  Properties -->
   <meta property="og:locale" content="en_US" />
   <meta property="og:type" content="website" />
@@ -13,7 +13,7 @@
   <meta property="og:description" content="I’m Han Nim Pacifique, Web Developper at Hewani & Software Engineer at Whale Cloud, The Alibaba Cloud. I develop both client and server software." />
   <meta property="og:url" content="/" />
   <meta property="og:site_name" content="Han Nim Pacifique - Home Personal" />
-  <meta property="og:image" content="https://hannim.herokuapp.com/assets/img/Huawei%20HQ%20Kinshasa.jpg" />
+  <meta property="og:image" content="HanPac/hannim.github.io/assets/img/Huawei%20HQ%20Kinshasa.jpg" />
   <meta property="og:image:width" content="259" />
   <meta property="og:image:height" content="378" />
 
